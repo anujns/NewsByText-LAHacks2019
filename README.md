@@ -1,8 +1,5 @@
-## Use it
-Just text +1(858) 239 0484 from the texting/SMS app in your phone.
-
 ## Inspiration
-A large fraction of the populations is still not connected to the internet. Modern web and native apps cater well to the tech savy audience. However, the users with not-so-advanced phones, no internet connection or even the elderly may be left behind.
+A large fraction of the population is still not connected to the internet. Modern web and native apps cater well to the tech savy audience. However, the users with not-so-advanced phones, no internet connection or even the elderly may be left behind.
 
 ## What it does
 NewsByText leverages the Twilio API and the ubiquitous text messaging feature on mobile phones to provide our users with latest news without the need of internet. We have built a chat bot based service that users can interact with to read latest news. 
@@ -23,7 +20,7 @@ https://youtu.be/nqDG_reiG7c
 
 ## Challenges we ran into
 Here are some of them:
-- Trending topics may have very similar topics because they co-occur in news. We used similarity based heuristics  and a network graph to eliminate them.
+- Trending topics may have very similar topics because they co-occur in news. We used similarity based heuristics and a network graph to eliminate them.
 - Maintaining state of users in backend
 
 ## Accomplishments that we are proud of
